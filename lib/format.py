@@ -8,7 +8,7 @@ def meshData(matrix):
     return mesh
 
 
-def lableTable(songs):
+def labelTable(songs):
     fmt = lambda s: s.replace('$', '\\$').replace('&', '\\&')
     tbl = '\\begin{tabular}{lccc}\n'
     tbl += '    \\toprule\n'
