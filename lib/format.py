@@ -9,19 +9,17 @@ def meshData(matrix):
 
 
 def lableTable(songs):
-    tbl = '\\begin{table}[h]\n'
-    tbl += '    \\begin{center}\n'
-    tbl += '        \\being{tabular}{lccc}\n'
-    tbl += '            \\toprule\n'
+    fmt = lambda s: s.replace('$', '\\$').replace('&', '\\&')
+    tbl = '\\begin{tabular}{lccc}\n'
+    tbl += '    \\toprule\n'
     row = 'id & Performer & Title & Duration [s]'
-    tbl += f'                {row}\n'
+    tbl += f'       {row}\\\\ \n'
+    tbl += '    \\midrule\n'
     for i,s in enumerate(songs):
-        row = f'{i+1} & {s.performer} & {s.title} & {s.length}'
-        tbl += f'                {row}\n'
+        row = f'{i+1} & {fmt(s.performer)} & {fmt(s.title)} & {s.length}'
+        tbl += f'       {row}\\\\ \n'
 
-    tbl += '            \\buttomrule\n'
-    tbl += '        \\end{tabular}\n'
-    tbl += '    \\end{center}\n'
-    tbl += '\\end{table}\n'
+    tbl += '    \\bottomrule\n'
+    tbl += '\\end{tabular}\n'
     return tbl
 
