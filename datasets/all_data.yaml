@@ -1,0 +1,199 @@
+comment: Information/Metadata regarding all songs in ../raw_data/; No segments specified (i.e. entire song)
+
+data:
+
+  - id: 1823
+    filename: 1823-rhythm.csv
+    title: Free The Frail (feat. Helena Deland)
+    performer: JPEGMAFIA
+    length: 3:31
+    segments: null
+  
+  - id: 1822
+    filename: 1822-rhythm.csv
+    title: Dibby Bop Feat. Raury & Cam O'bi
+    performer: Noname
+    length: 3:28
+    segments: null
+
+  - id: 1820
+    filename: 1820-rhythm.csv
+    title: Walkin
+    performer: Denzel Curry
+    length: 4:40
+    segments: null
+
+  - id: 1819
+    filename: 1819-rhythm.csv
+    title: Casked Pretty
+    performer: Noname
+    length: 1:50
+    segments: null
+
+  - id: 1818
+    filename: 1818-rhythm.csv
+    title: Self
+    performer: Noname
+    length: 1:34
+    segments: null
+
+  - id: 1817
+    filename: 1817-rhythm.csv
+    title: Blackxploitation
+    performer: Noname
+    length: 2:13
+    segments: null
+
+  - id: 1824
+    filename: 1824-rhythm.csv
+    title: PTSD
+    performer: JPEGMAFIA
+    length: 2:28
+    segments: null
+
+  - id: 1815
+    filename: 1815-rhythm.csv
+    title: 1539 N. Calvert
+    performer: JPEGMAFIA
+    length: 2:37
+    segments: null
+
+  - id: 1814
+    filename: 1814-rhythm.csv
+    title: Close Your Eyes (And Count to F-k)
+    performer: Run The Jewels
+    length: 3:54
+    segments: null
+
+  - id: 1813
+    filename: 1813-rhythm.csv
+    title: Story 7
+    performer: clipping.
+    length: 3:40
+    segments: null
+
+  - id: 1809
+    filename: 1809-rhythm.csv
+    title: La Mala Ordina (with The Rita) (feat. Elcamino & Benny The Butcher)
+    performer: clipping.
+    length: 5:46
+    segments: null
+
+  - id: 1795
+    filename: 1795-rhythm.csv
+    title: huh??
+    performer: Rural Internet
+    length: 3:34
+    segments: null
+
+  - id: 1794
+    filename: 1794-rhythm.csv
+    title: BRAINWORMS
+    performer: Rural Internet
+    length: 3:36
+    segments: null
+
+  - id: 1827
+    filename: 1827-rhythm.csv
+    title: Use Me (I'm Dope) (prod. Raphy)
+    performer: Bruiser Wolf
+    length: 5:06
+    segments: null
+
+  - id: 1828
+    filename: 1828-rhythm.csv
+    title: Thank God ft. Apropos (prod. Raphy)
+    performer: Bruiser Wolf
+    length: 3:09
+    segments: null
+
+  - id: 1829
+    filename: 1829-rhythm.csv
+    title: Chess Move$ (prod. Raphy)
+    performer: Bruiser Wolf
+    length: 2:38
+    segments: null
+
+  - id: 1830
+    filename: 1830-rhythm.csv
+    title: REBOUND! (ft. DATPIFFMAFIA)
+    performer: JPEGMAFIA
+    length: 3:44
+    segments: null
+
+  - id: 1831
+    filename: 1831-rhythm.csv
+    title: Williamsburg
+    performer: JPEGMAFIA
+    length: 3:32
+    segments: null
+
+  - id: 1833
+    filename: 1833-rhythm.csv
+    title: I'm A Instrument ft. Danny Brown (prod. Raphy)
+    performer: Bruiser Wolf
+    length: 3:35
+    segments: null
+
+  - id: 1834
+    filename: 1834-rhythm.csv
+    title: Middle Men ft. Fat Ray (prod. Raphy)
+    performer: Bruiser Wolf
+    length: 2:25
+    segments: null
+
+  - id: 1835
+    filename: 1835-rhythm.csv
+    title: Momma Was a Dopefiend ft. Apropos (prod. Knxwledge)
+    performer: Bruiser Wolf
+    length: 2:42
+    segments: null
+
+  - id: 1836
+    filename: 1836-rhythm.csv
+    title: Blood of the Fang
+    performer: clipping.
+    length: 4:39
+    segments: null
+
+  - id: 1840
+    filename: 1840-rhythm.csv
+    title: the man I want to be (and double)
+    performer: Adé Hakim
+    length: 1:19
+    segments: null
+
+  - id: 1842
+    filename: 1842-rhythm.csv
+    title: professor hakim (6press would never)
+    performer: Adé Hakim
+    length: 1:38
+    segments: null
+
+  - id: 1841
+    filename: 1841-rhythm.csv
+    title: hood rich up in the projects
+    performer: Adé Hakim
+    length: 1:18
+    segments: null
+
+  - id: 1843
+    filename: 1843-rhythm.csv
+    title: what do i need to be commercial 4?
+    performer: Adé Hakim
+    length: 1:38
+    segments: null
+
+  - id: 1845
+    filename: 1845-rhythm.csv
+    title: Fortune Cookie
+    performer: Booda French & Jaisu
+    length: 4:12
+    segments: null
+
+  - id: 1844
+    filename: 1844-rhythm.csv
+    title: Championship Rings featuring Jehst
+    performer: Booda French & Jaisu
+    length: 4:05
+    segments: null
